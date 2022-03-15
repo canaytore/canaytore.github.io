@@ -27,3 +27,11 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Rproj.user
+.Ruserdata
+*.Rproj

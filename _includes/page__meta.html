@@ -4,8 +4,8 @@
     {% if document.show_date and document.date %}
       {% assign date = document.date %}
       <span class="page__meta-date">
-        <i class="far {% if include.type == 'grid' and document.read_time and document.show_date %}fa-fw {% endif %}fa-calendar-alt" aria-hidden="true"></i>
-        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        <i class="fas {% if include.type == 'grid' and document.read_time and document.show_date %}fa-fw {% endif %}fa-calendar-alt" aria-hidden="true"></i>
+        {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
         <time datetime="{{ date | date_to_xmlschema }}">{{ date | date: date_format }}</time>
       </span>
     {% endif %}
@@ -19,13 +19,20 @@
       <span class="page__meta-readtime">
         <i class="far {% if include.type == 'grid' and document.read_time and document.show_date %}fa-fw {% endif %}fa-clock" aria-hidden="true"></i>
         {% if words < words_per_minute %}
-          {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+          {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].min_read | default: "min read" }}
         {% elsif words == words_per_minute %}
-          1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+          1 {{ site.data.ui-text[site.locale].min_read | default: "min read" }}
         {% else %}
-          {{ words | divided_by: words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+          {{ words | divided_by: words_per_minute }} {{ site.data.ui-text[site.locale].min_read | default: "min read" }}
         {% endif %}
       </span>
+    {% endif %}
+
+    {% if document.read_time and document.show_date and page.layout == "single" %}<span class="page__meta-sep"></span>
+    <!-- This part add a link to view the source file (rmd or md) for the current post -->
+    <span class="page__meta-sourcecode"> 
+      <i class="fab fa-fw fa-markdown" aria-hidden="true"></i> <a href= "https://github.com/{{ site.repository }}/blob/master/{{ page.path }}">View Source</a> 
+    </span>
     {% endif %}
   </p>
 {% endif %}
