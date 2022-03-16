@@ -2,13 +2,14 @@
    FOOTER
    ========================================================================== */
 
+
 .page__footer {
   @include clearfix;
   float: left;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
-  margin-top: 3em;
+  margin-top: 3em; /*3em*/
   color: $muted-text-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -27,7 +28,9 @@
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
+    
   }
+
 
   a {
     color: inherit;
@@ -49,6 +52,7 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  text-align: center;
 }
 
 .page__footer-follow {
@@ -60,11 +64,13 @@
 
   li {
     display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
-    text-transform: uppercase;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    line-height: 40px;
+    color: $footer-background-color;
+    background: $muted-text-color;
+    cursor: pointer;
   }
 
   li + li:before {
@@ -83,3 +89,7 @@
     }
   }
 }
+
+
+
+

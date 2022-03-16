@@ -1,3 +1,4 @@
+<!-- previous version
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.footer.links %}
@@ -12,6 +13,67 @@
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
   </ul>
-</div>
+</div> 
+-->
 
+<!-- second option
+<div id='subscribe-css'>
+  <p class='subscribe-note'><span>SUBSCRIBE</span> <span class='itatu'>TO</span> MY BLOG</p>
+  <div class='subscribe-wrapper'>
+    <div class='subscribe-form'>
+      <form method='post' action='http://blogtrottr.com' class='subscribe-form'>
+          <input type='text' name='btr_email' class='subscribe-css-email-field' placeholder = 'Enter your Email'/><br />
+          <input type='hidden' name='btr_url' value='https://canaytore.github.io/feed.xml' />
+          <input type='hidden' name='schedule_type' value='0' />
+          <input type='submit' class="subscribe-css-email-button" value='Submit' />
+          <input name='loc' type='hidden' value='en_US'/>
+      </form>
+    </div>
+  </div>
+</div>
+-->
+
+
+
+<div class="footer__row">
+  
+  <div class="footer__col">
+    <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="/assets/images/data_cats_dont_lie.gif"></div>
+  </div>
+  
+  <div class="footer__col">
+    <p style="font-size:75%; text-align:justify">I’m just a random data scientist candidate, I know this is a long journey.</p>
+    <p style="font-size:75%; text-align:justify">I have found that creating this blog page allows me to store my work perfectly and encourages me to always be curious about new technologies and keep learning.</p>
+    <p style="font-size:75%; text-align:justify">Hopefully you could find content on this blog that might interest you.</p>
+  </div>
+  
+  <div class="footer__col">
+    <h3>Subscribe to my blog</h3>
+    <form method='post' action='http://blogtrottr.com' class='subscribe-form'>
+        <input type='text' name='btr_email' class='subscribe-css-email-field' placeholder = 'Enter your Email'/><br />
+        <button type="submit"><i class="fas fa-paper-plane"></i></button>        
+        <input type='hidden' name='btr_url' value='https://canaytore.github.io/feed.xml' />
+        <input type='hidden' name='schedule_type' value='0' />
+        <input name='loc' type='hidden' value='en_US'/>
+    </form>
+    
+    <div class="page__footer-follow">
+      <ul class="social-icons">
+        {% if site.footer.links %}
+          {% for link in site.footer.links %}
+            {% if link.url %}
+              <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i></a></li>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+    
+        {% unless site.atom_feed.hide %}
+          <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+        {% endunless %}
+      </ul>
+    </div> 
+    
+  </div>
+</div>
+<hr>
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</div>
