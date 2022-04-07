@@ -16,64 +16,68 @@
 </div> 
 -->
 
-<!-- second option
-<div id='subscribe-css'>
-  <p class='subscribe-note'><span>SUBSCRIBE</span> <span class='itatu'>TO</span> MY BLOG</p>
-  <div class='subscribe-wrapper'>
-    <div class='subscribe-form'>
-      <form method='post' action='http://blogtrottr.com' class='subscribe-form'>
-          <input type='text' name='btr_email' class='subscribe-css-email-field' placeholder = 'Enter your Email'/><br />
-          <input type='hidden' name='btr_url' value='https://canaytore.github.io/feed.xml' />
-          <input type='hidden' name='schedule_type' value='0' />
-          <input type='submit' class="subscribe-css-email-button" value='Submit' />
-          <input name='loc' type='hidden' value='en_US'/>
-      </form>
+
+<div class="container"></div>
+<footer>
+  <!-- Footer main -->
+  <section class="ft-main">
+    
+    <div class="ft-main-item-first">
+      <img class="ft-main-item" src="/assets/images/chandler.gif">
     </div>
-  </div>
-</div>
--->
-
-
-
-<div class="footer__row">
-  
-  <div class="footer__col">
-    <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="/assets/images/data_cats_dont_lie.gif"></div>
-  </div>
-  
-  <div class="footer__col">
-    <p style="font-size:75%; text-align:justify">I’m just a random data scientist candidate, I know this is a long journey.</p>
-    <p style="font-size:75%; text-align:justify">I have found that creating this blog page allows me to store my work perfectly and encourages me to always be curious about new technologies and keep learning.</p>
-    <p style="font-size:75%; text-align:justify">Hopefully you could find content on this blog that might interest you.</p>
-  </div>
-  
-  <div class="footer__col">
-    <h3>Subscribe to my blog</h3>
-    <form method='post' action='https://blogtrottr.com' class='subscribe-form'>
-        <input type='text' name='btr_email' class='subscribe-css-email-field' placeholder = 'Enter your Email'/><br />
-        <button type="submit"><i class="fas fa-paper-plane"></i></button>        
-        <input type='hidden' name='btr_url' value='https://canaytore.github.io/feed.xml' />
-        <input type='hidden' name='schedule_type' value='0' />
-        <input name='loc' type='hidden' value='en_US'/>
-    </form>
     
-    <div class="page__footer-follow">
-      <ul class="social-icons">
-        {% if site.footer.links %}
-          {% for link in site.footer.links %}
-            {% if link.url %}
-              <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i></a></li>
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-    
-        {% unless site.atom_feed.hide %}
-          <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-        {% endunless %}
+    <div class="ft-main-item-second">
+    <!-- For future, more sections could be added
+      <h2 class="ft-title">Contact</h2>
+      <ul>
+        <li><a href="#">Help</a></li>
+        <li><a href="#">Sales</a></li>
+        <li><a href="#">Advertise</a></li>
       </ul>
-    </div> 
+    -->
+      
+      <p style="font-size:85%; text-align:justify">Hello dear reader 👀</p>
+      <p style="font-size:75%; text-align:justify">I’m just a random data scientist candidate.</p>
+      <p style="font-size:75%; text-align:justify">I have found that creating this blog page allows me to store my work perfectly and encourages me to always be curious about new technologies and keep learning.</p>
+      <p style="font-size:75%; text-align:justify">Hopefully you can find content on this blog that interests you.</p>
+    </div>
     
-  </div>
-</div>
-<hr>
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</div>
+    <div class="ft-main-item-third">
+      <h3 class="ft-title">Sign up for my Newsletter</h2>
+      <p style="font-size:75%; text-align:justify">Get notified of my latest blog posts.</p>
+      <form method='post' action='https://blogtrottr.com' target="_blank"
+  onsubmit="return (/\S+@\S+\.\S+/).test(document.getElementById('blgsubeml').value);">
+        <input type="email" name="btr_email" id="blgsubeml" placeholder="Enter email address" />
+        <input type='hidden' name='btr_url' value='https://canaytore.github.io/feed.xml' />
+        <input type="hidden" name="schedule_type" value="6" />
+        <input type="submit" value="Subscribe" />
+      </form>
+      <p style="font-size:70%; text-align:justify">No 3rd party products, no spam. Emails handled by <a href="https://blogtrottr.com/" target="_blank">_Blogtrottr_</a>.</p>
+          
+    <!-- Footer social -->
+    <section class="ft-social">
+      <ul class="ft-social-list">
+        <li><a href="https://linkedin.com/in/canaytore/"><i class="fab fa-linkedin"></i></a></li>
+        <li><a href="https://github.com/canaytore/"><i class="fab fa-github"></i></a></li>
+        <!--
+        <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+        <li><a href="#"><i class="fab fa-youtube"></i></a></li> -->
+      </ul>
+    </section>
+    </div>
+  </section>
+
+  <!-- Footer legal -->
+  <section class="ft-legal">
+    <!--
+    <ul class="ft-legal-list">
+      <li><a href="#">Terms &amp; Conditions</a></li>
+      <li><a href="#">Privacy Policy</a></li>
+      <li>&copy; 2019 Copyright Nowrap Inc.</li>
+    </ul>
+    -->
+    <div class="ft-legal-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} &middot; made with &#10084; </div>
+  </section>
+</footer>

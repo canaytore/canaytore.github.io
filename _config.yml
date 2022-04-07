@@ -18,7 +18,7 @@ title                    : "Can Aytöre"
 title_separator          : "-"
 subtitle                 : "data science enthusiast" # site tagline that appears below site title in masthead
 name                     : "Can Aytöre"
-description              : "Data Analist at BSH Hausgeräte GmbH, specialized in R and Python."
+description              : "Data Analyst at BSH Hausgeräte GmbH, specialized in R and Python."
 # url                      : "https://canaytore.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : "http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Can Aytöre"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Analyst at BSH, specialized in R and Python."
+  bio              : "Data Analyst at BSH, works in R and Python."
   location         : "Munich, Germany"
   employer         : 
   email            :
