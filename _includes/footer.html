@@ -16,68 +16,49 @@
 </div> 
 -->
 
-
-<div class="container"></div>
+<!-- new version (but deactivated for now) -->
 <footer>
-  <!-- Footer main -->
-  <section class="ft-main">
-    
-    <div class="ft-main-item-first">
-      <img class="ft-main-item" src="/assets/images/chandler.gif">
-    </div>
-    
-    <div class="ft-main-item-second">
-    <!-- For future, more sections could be added
-      <h2 class="ft-title">Contact</h2>
-      <ul>
-        <li><a href="#">Help</a></li>
-        <li><a href="#">Sales</a></li>
-        <li><a href="#">Advertise</a></li>
-      </ul>
-    -->
-      
-      <p style="font-size:85%; text-align:justify">Hello dear reader 👀</p>
-      <p style="font-size:75%; text-align:justify">I’m just a random data scientist candidate.</p>
-      <p style="font-size:75%; text-align:justify">I have found that creating this blog page allows me to store my work perfectly and encourages me to always be curious about new technologies and keep learning.</p>
-      <p style="font-size:75%; text-align:justify">Hopefully you can find content on this blog that interests you.</p>
-    </div>
-    
-    <div class="ft-main-item-third">
-      <h3 class="ft-title">Sign up for my Newsletter</h2>
-      <p style="font-size:75%; text-align:justify">Get notified of my latest blog posts.</p>
-      <form method='post' action='https://blogtrottr.com' target="_blank"
-  onsubmit="return (/\S+@\S+\.\S+/).test(document.getElementById('blgsubeml').value);">
-        <input type="email" name="btr_email" id="blgsubeml" placeholder="Enter email address" />
-        <input type='hidden' name='btr_url' value='https://canaytore.github.io/feed.xml' />
-        <input type="hidden" name="schedule_type" value="6" />
-        <input type="submit" value="Subscribe" />
-      </form>
-      <p style="font-size:70%; text-align:justify">No 3rd party products, no spam. Emails handled by <a href="https://blogtrottr.com/" target="_blank">_Blogtrottr_</a>.</p>
-          
-    <!-- Footer social -->
-    <section class="ft-social">
-      <ul class="ft-social-list">
-        <li><a href="https://linkedin.com/in/canaytore/"><i class="fab fa-linkedin"></i></a></li>
-        <li><a href="https://github.com/canaytore/"><i class="fab fa-github"></i></a></li>
-        <!--
-        <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-        <li><a href="#"><i class="fab fa-youtube"></i></a></li> -->
-      </ul>
-    </section>
-    </div>
-  </section>
+  <!-- 
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-sm-12">
+                    <div class="footer-gif">
+                      <img src="/assets/images/chandler.gif">
+                    </div>
+                </div>
+                
+                
+                <div class="col-lg-6 col-sm-12 newsletter">
+                    <h4>Sign up for my Newsletter</h4>
+                    <p>Get notified of my latest blog posts.</p>
+                    <form method="post" action="https://blogtrottr.com" target="_blank"
+onsubmit="return (/\S+@\S+\.\S+/).test(document.getElementById('blgsubeml').value);">
+                      <input type="email" name="btr_email" id="blgsubeml" placeholder="Enter email address" />
+                      <input type='hidden' name='btr_url' value='https://canaytore.github.io/feed.xml' />
+                      <input type="hidden" name="schedule_type" value="6" />
+                      <input type="submit" value="Subscribe" />
+                    </form>
+                    <p style="font-size:90%; text-align:center; font-style: italic">No 3rd party products, no spam. Emails handled by <a href="https://blogtrottr.com/" target="_blank">Blogtrottr</a>.</p>
+                    
+                    <div class="social-links mt-3" style="text-align:center">
+                        <a href="https://www.linkedin.com/in/canaytore/"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="https://github.com/canaytore"><i class="fab fa-github"></i></a>
+                        <a href="https://scholar.google.com/citations?user=mbMndyUAAAAJ=en"><i class="fa fa-graduation-cap"></i></a>
+                        <a href="https://orcid.org/0000-0002-0092-898X"><i class="fab fa-orcid"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
 
-  <!-- Footer legal -->
-  <section class="ft-legal">
-    <!--
-    <ul class="ft-legal-list">
-      <li><a href="#">Terms &amp; Conditions</a></li>
-      <li><a href="#">Privacy Policy</a></li>
-      <li>&copy; 2019 Copyright Nowrap Inc.</li>
-    </ul>
-    -->
-    <div class="ft-legal-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} &middot; made with &#10084; </div>
-  </section>
-</footer>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                  <p class="footer-bottom-text">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} &middot; made with &#10084;</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer> 

@@ -5,13 +5,13 @@ layout: archive
 {{ content }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].browse_posts_by | default: "Browse posts by" }}
-  <strong><a href="{{ base_path }}{{ site.category_archive.path }}">
+  <strong><a href="/blog/categories/">
   <i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> Category
   </a></strong>
-  <strong><a href="{{ base_path }}{{ site.tag_archive.path }}">
+  <strong><a href="/blog/tags/">
   <i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tag
   </a></strong>
-  <strong><a href="{{ base_path }}{{ site.year_archive.path }}">
+  <strong><a href="/blog/year/">
   <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Year
   </a></strong> 
 </h3>

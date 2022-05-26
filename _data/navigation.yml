@@ -3,11 +3,15 @@ main:
   - title: "Home"
     url: /
   - title: "Blog Posts"
-    url: /blog/
+    url: /blog/categories/
+  - title: "Visualizations"
+    url: /visualizations/
   - title: "Publications"
     url: /publications/
   - title: "About me"
     url: /about/
+  - title: "Photography"
+    url: /photography/
   # - title: "Contact"
   #   url: /contact/
   # - title: "Sitemap"
@@ -24,8 +28,36 @@ posts_nav:
   - title: "Browse posts by"
     children:
       - title: "Category"
-        url: /categories/
+        url: /blog/categories/
       - title: "Tag"
-        url: /tags/
+        url: /blog/tags/
       - title: "Year"
-        url: /year-archive/
+        url: /blog/year/
+
+visuals_nav:
+  - title: "📈 in #TidyTuesday"
+    url: "/visualizations/#TidyTuesday"
+    children:
+      - title: "2022"
+        url: "/visualizations/#TidyTuesday2022"
+      - title: "2021"
+        url: "/visualizations/#TidyTuesday2021"
+  - title: "📈 in Blog Posts"
+    url: "/visualizations/#BlogPosts"
+
+photo_gallery:
+  - title: All photos are taken by me <i class="far fa-copyright"></i>
+    children:
+      - title: "Follow me on Instagram"
+        url: "https://www.instagram.com/dailyhovering/?hl=en"
+      - title: <i class="fab fa-instagram"></i> dailyhovering
+        url: "https://www.instagram.com/dailyhovering/?hl=en"
+      - title: "Subscribe me on Youtube"
+        url: "https://www.youtube.com/channel/UC2kOUxfJY_qJbh-eWzWvjTQ"
+      - title: <i class="fab fa-youtube"></i> dailyhovering
+        url: "https://www.youtube.com/channel/UC2kOUxfJY_qJbh-eWzWvjTQ"
+      - title: "Email me for prints"
+        url:
+      - title: "Follow me on Flickr"
+        url: "https://flic.kr/ps/3YCQXY"
+      

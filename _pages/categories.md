@@ -1,7 +1,7 @@
 ---
-title: "Posts by Category"
+title: "Blog Posts by Category"
 layout: categories
-permalink: /categories/
+permalink: /blog/categories/
 author_profile: false
 classes: wide
 sidebar:
