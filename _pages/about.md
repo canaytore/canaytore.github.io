@@ -30,7 +30,10 @@ You can find further information <u>below</u> or on my <a href="https://scholar.
 ======
 
 - <a href="https://www.bsh-group.com/" target="_blank">BSH Home Appliances Group</a>
-  - <a href="https://www.bsh-group.com/career/global-graduate-accelerator" target="_blank">Global Graduate</a> in IT, Digital & Strategy, <font style="font-size:85%; font-style: italic;">08/2021 - Present</font>
+  - <a href="https://www.bsh-group.com/career/global-graduate-accelerator" target="_blank">Global Graduate</a> in IT, Digital & Strategy, <font style="font-size:85%; font-style: italic;">08/2021 - 08/2022</font>
+    - Data Analyst @<a href="https://www.bluemovement.com/nl-en" target="_blank">BlueMovement</a> Amsterdam, <font style="font-size:85%; font-style: italic;">05/2022 - 08/2022</font>
+    - Data Scientist @BSH Berlin Laundry Care Technology Center, <font style="font-size:85%; font-style: italic;">01/2022 - 04/2022</font>
+    - RPA/AI Developer @BSH Munich HQ, <font style="font-size:85%; font-style: italic;">08/2021 - 12/2021</font>
   - Product Marketing Working Master Student, <font style="font-size:85%; font-style: italic;">09/2019 - 07/2021</font>
 
 - <a href="https://www.vitraglobal.com/" target="_blank">Eczacıbaşı Building Products (VitrA Bath)</a>

@@ -48,16 +48,17 @@ visuals_nav:
 photo_gallery:
   - title: All photos are taken by me <i class="far fa-copyright"></i>
     children:
-      - title: "Follow me on Instagram"
+      - title: 🚁 DJI Mavic Air 2
+      - title: 📸 Canon 550d
+      - title: "Email me for prints"      
+  - title: "Follow me on .."
+    children:
+      - title: <i class="fab fa-instagram"></i> instagram/dailyhovering
         url: "https://www.instagram.com/dailyhovering/?hl=en"
-      - title: <i class="fab fa-instagram"></i> dailyhovering
-        url: "https://www.instagram.com/dailyhovering/?hl=en"
-      - title: "Subscribe me on Youtube"
+      - title: <i class="fab fa-youtube"></i> youtube/dailyhovering
         url: "https://www.youtube.com/channel/UC2kOUxfJY_qJbh-eWzWvjTQ"
-      - title: <i class="fab fa-youtube"></i> dailyhovering
-        url: "https://www.youtube.com/channel/UC2kOUxfJY_qJbh-eWzWvjTQ"
-      - title: "Email me for prints"
-        url:
-      - title: "Follow me on Flickr"
+      - title: <i class="fab fa-flickr"></i> flickr/canaytore
         url: "https://flic.kr/ps/3YCQXY"
-      
+  - title: "More photo coming soon 😊"
+  
+  
