@@ -27,11 +27,11 @@ main:
 posts_nav:
   - title: "Browse posts by"
     children:
-      - title: "Category"
+      - title: <i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> Category
         url: /blog/categories/
-      - title: "Tag"
+      - title: <i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tag
         url: /blog/tags/
-      - title: "Year"
+      - title: <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Year
         url: /blog/year/
 
 visuals_nav:
