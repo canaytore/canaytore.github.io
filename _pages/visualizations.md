@@ -27,6 +27,26 @@ gallery1:
   - url: /assets/visualization/australian_salary.png
     image_path: /assets/visualization/australian_salary.png
     title: "#tidytuesday Week4 2018 - Australian Salary"
+
+  - url: /assets/visualization/us_census_genderdist.png
+    image_path: /assets/visualization/us_census_genderdist.png
+    title: "#tidytuesday Week5 2018 - US Census Gender Distribution"   
+    
+  - url: /assets/visualization/us_census_unemployment.png
+    image_path: /assets/visualization/us_census_unemployment.png
+    title: "#tidytuesday Week5 2018 - US Census Unemployment Rates"  
+    
+  - url: /assets/visualization/us_census_workingathome.png
+    image_path: /assets/visualization/us_census_workingathome.png
+    title: "#tidytuesday Week5 2018 - US Working at Home"  
+    
+  - url: /assets/visualization/us_census_commutetime.png
+    image_path: /assets/visualization/us_census_commutetime.png
+    title: "#tidytuesday Week5 2018 - US Mean Commute Time"  
+    
+  - url: /assets/visualization/us_census_CAincomepercapita.png
+    image_path: /assets/visualization/us_census_CAincomepercapita.png
+    title: "#tidytuesday Week5 2018 - California Income per Capita"  
     
 ---
 
