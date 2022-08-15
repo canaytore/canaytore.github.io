@@ -18,11 +18,11 @@ title                    : "Can Aytöre"
 title_separator          : "-"
 subtitle                 : "data science enthusiast" # site tagline that appears below site title in masthead
 name                     : "Can Aytöre"
-description              : "Data Analyst at BSH Hausgeräte GmbH, specialized in R and Python."
-# url                      : "https://canaytore.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-url                      : "http://localhost:4000"
+description              : "Can Aytöre - Homepage"
+url                      : "https://canaytore.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : "http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "canaytore/home3" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "canaytore/canaytore.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/favicon.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -105,9 +105,9 @@ analytics:
 author:
   name             : "Can Aytöre"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Analyst at BSH, works in R and Python."
+  bio              : "Industrial Engineer, M.Sc. <br />⭸ R and Python-ist 🐍"
   location         : "Munich, Germany"
-  employer         : 
+  employer         : "BSH Hausgeräte GmbH"
   email            :
   links:
     - label: "Linkedin"
@@ -246,6 +246,8 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jemoji
+  - jekyll-algolia
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -255,7 +257,8 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
   - jemoji
-
+  - jekyll-algolia
+  - jekyll-redirect-from
 
 # Archives
 #  Type

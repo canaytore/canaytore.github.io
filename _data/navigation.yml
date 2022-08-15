@@ -1,15 +1,13 @@
 # main links
 main:
-  - title: "Home"
-    url: /
+  - title: "About me"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
   - title: "Blog Posts"
     url: /blog/categories/
   - title: "Visualizations"
     url: /visualizations/
-  - title: "Publications"
-    url: /publications/
-  - title: "About me"
-    url: /about/
   - title: "Photography"
     url: /photography/
   # - title: "Contact"
@@ -59,6 +57,6 @@ photo_gallery:
         url: "https://www.youtube.com/channel/UC2kOUxfJY_qJbh-eWzWvjTQ"
       - title: <i class="fab fa-flickr"></i> flickr/canaytore
         url: "https://flic.kr/ps/3YCQXY"
-  - title: "More photo coming soon 😊"
+  - title: "More content soon 😊"
   
   

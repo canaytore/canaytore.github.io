@@ -1,21 +1,28 @@
 ---
 layout: single
 permalink: /about/
-author_profile: true
+author_profile: yes
 classes: wide
+redirect_from:
+  - /
 ---
 
-<img style="float: right; width: 44%; padding-left: 32px; padding-top: 8px; padding-bottom: 12px;" src="/assets/images/chandler.gif"> Hello dear reader, I'm just a random data scientist candidate. I have found that creating this blog page allows me to store my work perfectly and encourages me to always be curious about new technologies and keep learning. Hopefully you can find content on this blog that interests you.
+<img style="float: right; width: 44%; padding-left: 32px; padding-top: 8px; padding-bottom: 12px;" src="/assets/images/chandler.gif"> Hello dear reader, I'm just a random data scientist candidate. I have found that creating this blog page allows me to store my work perfectly and encourages me to always be curious about new technologies and more importantly keep learning. Hopefully you find content on this blog that interests you.
 {: .text-justify} 
 
-I was always eager to be an engineer from the first day. When data science became a thing back then, I was lucky to combine my interests and now it was clear where to head. 
+I was always eager to be an engineer from the first day. When data science became a thing back then, I was lucky to combine my interests and it was pretty clear where to head.
 {: .text-justify}
 
-I find myself programming especially in <a href="https://www.r-project.org/" target="_blank">R</a> and <a href="https://www.python.org/" target="_blank">Python</a> for more than 5 years. To make my projects reproducible and scalable, I use <a href="https://git-scm.com/" target="_blank">Git</a> for version control, <a href="https://docs.conda.io/" target="_blank">Conda</a> for virtual environments, <a href="https://www.rstudio.com/" target="_blank">RStudio</a> projects for structuring working directories, <a href="https://rmarkdown.rstudio.com/" target="_blank">R Markdown</a> for reporting to be used with powerful <a href="https://yihui.org/knitr/" target="_blank">knitr</a>.
+I find myself programming especially in <a href="https://www.r-project.org/" target="_blank">R</a> and <a href="https://www.python.org/" target="_blank">Python</a> for more than 5 years. To keep my projects reproducible and scalable, I use <a href="https://git-scm.com/" target="_blank">Git</a> for version control, <a href="https://docs.conda.io/" target="_blank">Conda</a> for virtual environments, <a href="https://www.rstudio.com/" target="_blank">RStudio</a> projects for structuring working directories, and <a href="https://rmarkdown.rstudio.com/" target="_blank">R Markdown</a> for reporting to be used with powerful <a href="https://yihui.org/knitr/" target="_blank">knitr</a>.
 {: .text-justify}
 
-You can find further information <u>below</u> or on my <a href="https://scholar.google.com/citations?user=mbMndyUAAAAJ=en" target="_blank">Google Scholar</a>, <a href="https://github.com/canaytore/" target="_blank">Github</a>, and <a href="http://canaytore.github.io/blog/" target="_blank">blog-posts</a>. You are also very welcome to connect with me via <a href="https://linkedin.com/in/canaytore/" target="_blank">LinkedIn</a>.
+When I was not coding, you may find me traveling, exploring, photographing, swimming, or sailing.
 {: .text-justify}
+
+You can find further information about me <u>below</u> or on my <a href="https://scholar.google.com/citations?user=mbMndyUAAAAJ=en" target="_blank">Google Scholar</a>, <a href="https://github.com/canaytore/" target="_blank">Github</a>, and <a href="http://canaytore.github.io/blog/" target="_blank">blog-posts</a>. You are also very welcome to connect with me via <a href="https://linkedin.com/in/canaytore/" target="_blank">LinkedIn</a>.
+{: .text-justify}
+
+<hr style="height:1px; visibility:hidden;" />
 
 📚 Education
 ======
@@ -25,6 +32,8 @@ You can find further information <u>below</u> or on my <a href="https://scholar.
 - B.Sc. in Wirtschaftsingenieurwesen, <a href="https://www.hm.edu/en/" target="_blank">Munich University of Applied Sciences</a>, *2018*
 
 **Research Interests🔎:** <font style="font-size:90%; text-align: justify;">Stochastic Processes, Simulation, Advanced Statistics, ML Algorithms, Artificial Intelligence, Computer Vision, Natural Language Processing</font>
+
+<hr style="height:1px; visibility:hidden;" />
 
 👨‍💻 Work experience
 ======
@@ -42,6 +51,8 @@ You can find further information <u>below</u> or on my <a href="https://scholar.
 - <a href="https://www.fordotosan.com.tr/en" target="_blank">Ford Motor Company</a>
   - Manufacturing Summer Intern, <font style="font-size:85%; font-style: italic;">06/2017 - 08/2017</font>
 
+<hr style="height:1px; visibility:hidden;" />
+
 💪 Skill highlights
 ======
 
@@ -54,9 +65,12 @@ You can find further information <u>below</u> or on my <a href="https://scholar.
 | SPSS                                      | LaTeX                       |
 | Power BI                                  | Git                         |
 | RPA _(Robotic Process Automation)_        | Cloud Computing _(AWS)_     |
-| GAMS / Lindo                              | AutoCAD                     |
-| NETLOGO Simulation                        | Matlab / Simulink           |
+| Big Data Analytics _(Spark & Hadoop)_     | AutoCAD                     |
+| GAMS / Lindo                              | Matlab / Simulink           |
+| NETLOGO Simulation                        |                             |
 | ARENA Simulation                          |                             |
+
+<hr style="height:1px; visibility:hidden;" />
 
 📰 Publications
 ======
@@ -80,6 +94,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
+<hr style="height:1px; visibility:hidden;" />
+
+🏅 Certifications
+======
+
+<embed src="/assets/certificates/CertificateOfCompletion_Master R for Data Science.pdf" width="100%" height="65%" type="application/pdf" />
+
+<hr style="height:1px; visibility:hidden;" />
 
 🌐 About _`canaytore.github.io`_
 ======
