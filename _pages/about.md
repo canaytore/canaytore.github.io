@@ -31,13 +31,16 @@ You can find further information about me <u>below</u> or on my <a href="https:/
 - B.Sc. in Industrial Engineering and Economics, <a href="https://www.itu.edu.tr/" target="_blank">Istanbul Technical University</a>, *2019* <font style="font-size:75%;">CGPA: 3.53/4.0</font>
 - B.Sc. in Wirtschaftsingenieurwesen, <a href="https://www.hm.edu/en/" target="_blank">Munich University of Applied Sciences</a>, *2018*
 
-**Research Interests🔎:** <font style="font-size:90%; text-align: justify;">Stochastic Processes, Simulation, Advanced Statistics, ML Algorithms, Artificial Intelligence, Computer Vision, Natural Language Processing</font>
+**Research Interests🔎:** <font style="font-size:90%; text-align: justify;">Stochastic Processes, Simulation, Advanced Statistics, Bayesian Network, ML Algorithms, Artificial Intelligence, Computer Vision, Natural Language Processing</font>
 
 <hr style="height:1px; visibility:hidden;" />
 
 👨‍💻 Work experience
 ======
 
+- <a href="https://de.adastragrp.com/en/" target="_blank">Adastra GmbH</a>
+  - Data Engineer, <font style="font-size:85%; font-style: italic;">09/2022 - Present</font>
+  
 - <a href="https://www.bsh-group.com/" target="_blank">BSH Home Appliances Group</a>
   - <a href="https://www.bsh-group.com/career/global-graduate-accelerator" target="_blank">Global Graduate</a> in IT, Digital & Strategy, <font style="font-size:85%; font-style: italic;">08/2021 - 08/2022</font>
     - Data Analyst @<a href="https://www.bluemovement.com/nl-en" target="_blank">BlueMovement</a> Amsterdam, <font style="font-size:85%; font-style: italic;">05/2022 - 08/2022</font>
