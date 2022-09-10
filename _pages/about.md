@@ -102,7 +102,7 @@ Teaching
 🏅 Certifications
 ======
 
-<embed src="/assets/certificates/CertificateOfCompletion_Master R for Data Science.pdf" width="100%" height="65%" type="application/pdf" />
+<embed src="/assets/certificates/Certificates_Linkedin.pdf" width="100%" height="65%" type="application/pdf" />
 
 <hr style="height:1px; visibility:hidden;" />
 

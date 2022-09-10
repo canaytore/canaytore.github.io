@@ -105,11 +105,14 @@ analytics:
 author:
   name             : "Can Aytöre"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Industrial Engineer, M.Sc. <br />⭸ R and Python-ist 🐍"
-  location         : "Munich, Germany"
-  employer         : "BSH Hausgeräte GmbH"
+  bio              : "Industrial Engineer, M.Sc.<br/>R & Python-ist 🐍"
+  location         : "Hannover, Germany"
+  employer         :
   email            :
   links:
+    - label: "Adastra GmbH" # alternative use for 'employer'
+      icon: "fa fa-fw fa-briefcase"
+      url: "https://de.adastragrp.com/en/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/canaytore/"
