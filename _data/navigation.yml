@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "About me"
+  - title: "About me."
     url: /about/
-  - title: "Publications"
+  - title: "Publications."
     url: /publications/
-  - title: "Blog Posts"
+  - title: "Blog Posts."
     url: /blog/categories/
-  - title: "Visualizations"
+  - title: "Visualizations."
     url: /visualizations/
-  - title: "Photography"
+  - title: "Photography."
     url: /photography/
   # - title: "Contact"
   #   url: /contact/
