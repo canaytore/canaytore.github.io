@@ -108,7 +108,7 @@ author:
   name             : "Can Aytöre"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Industrial Engineer, M.Sc.<br/>R & Python-ist 🐍"
-  location         : "Hannover, Germany"
+  location         : "Hanover, Germany"
   employer         :
   email            :
   links:
@@ -121,6 +121,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/canaytore/"
+    - label: "HackerRank"
+      icon: "fab fa-fw fa-hackerrank"
+      url: "https://www.hackerrank.com/canaytore"
     - label: "Google Scholar"
       icon: "fa fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=mbMndyUAAAAJ=en"
