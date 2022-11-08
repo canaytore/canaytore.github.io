@@ -1,9 +1,10 @@
 ---
 layout: single
 permalink: /photography/
-title: "Can Aytöre Photography (a.k.a. DailyHovering)"
+title: "Can Aytöre Photography <font style='font-size:75%;'>(a.k.a. DailyHovering)</font>"
 classes: wide
 author_profile: false
+author_profile_2: true
 sidebar:
   nav: "photo_gallery"
 

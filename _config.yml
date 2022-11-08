@@ -103,7 +103,7 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# Site Author
+# Site Author 1 (default site.author)
 author:
   name             : "Can Aytöre"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
@@ -145,6 +145,24 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
+# Site Author 2 (specifically created for photography portfolio landing page)
+author2:
+  name             : "Can Aytöre"
+  avatar           : "/assets/images/profile.jpg" # e.g."/assets/images/bio-photo.jpg"
+  bio              : "Part-time Photographer 📸"
+  location         : 
+  email            :
+  links:
+    - label: "<i>instagram/dailyhovering</i>"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/dailyhovering/?hl=en"
+    - label: "<i>youtube/dailyhovering</i>"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UC2kOUxfJY_qJbh-eWzWvjTQ"      
+    - label: "<i>flickr/canaytore</i>"
+      icon: "fab fa-fw fa-flickr"
+      url: "https://flic.kr/ps/3YCQXY"
 
 # Site Footer
 footer:
