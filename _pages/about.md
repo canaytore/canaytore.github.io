@@ -16,7 +16,7 @@ I was always eager to be an engineer from the very first day. When data science 
 I've been inevitably finding myself coding in major programming languages such as <a href="https://www.python.org/" target="_blank">Python</a>, <a href="https://www.r-project.org/" target="_blank">R</a>, and <a href="https://dl.acm.org/doi/pdf/10.1145/800296.811515" target="_blank">SQL</a> for over 7 years. To keep my projects traceable, reproducible and scalable, I use <a href="https://git-scm.com/" target="_blank">git</a> for version control, <a href="https://docs.conda.io/" target="_blank">Conda</a> for virtual environments, <a href="https://www.rstudio.com/" target="_blank">RStudio</a> projects for structuring working directories, and <a href="https://jupyter.org/" target="_blank">Jupyter Notebook</a> and <a href="https://rmarkdown.rstudio.com/" target="_blank">R Markdown</a> for interactive computing and reporting.
 {: .text-justify}
 
-When I'm not coding, you may find me reading, exploring, traveling, swimming, or sailing. Therewithal I recently picked up aerial photography again, my portfolio is at <a href="https://canaytore.github.io/photography/" target="_blank">ca.photography</a>.
+When I'm not coding, you may find me reading, exploring, traveling, swimming, or sailing. Therewithal I recently started playing <a href="https://www.chess.com/member/canaytore" target="_blank">Chess</a> and picked up aerial photography again - my portfolio is at <a href="https://canaytore.github.io/photography/" target="_blank">ca.photography</a>.
 {: .text-justify}
 
 You can find further information about me <u>below</u> or on my <a href="https://scholar.google.com/citations?user=mbMndyUAAAAJ=en" target="_blank">Google Scholar</a>, <a href="https://github.com/canaytore/" target="_blank">Github</a>, and <a href="https://canaytore.github.io/blog/categories/" target="_blank">blog-posts</a>. Also of course you are very welcome to connect with me via <a href="https://linkedin.com/in/canaytore/" target="_blank">LinkedIn</a>.
@@ -117,15 +117,16 @@ Teaching
 
 to be updated 👀
 
-<!-- 
+<!--
   <embed src="" width="100%" height="65%" type="application/pdf" />
 -->
 <hr style="height:1px; visibility:hidden;" />
 
-🏆 Course Certifications <font style="font-size:65%;">(over 100 hrs+ of training time)</font>
+🏆 Course Certifications <font style="font-size:65%;">(over 200 hrs+ of training time)</font>
 ======
 
-<embed src="/assets/certificates/Certificates_Linkedin.pdf" width="100%" height="65%" type="application/pdf" />
+<div style="text-align: right; margin-right: 2.5%; margin-top: -2.5%;"><i>Scroll down</i> <b>⬇</b></div>
+<embed src="/assets/certificates/Certificates_Linkedin.pdf#view=fitH&scrollbar=0&toolbar=0&navpanes=0&statusbar=0" width="100%" height="75%" type="application/pdf"/>
 
 <hr style="height:1px; visibility:hidden;" />
 

@@ -130,6 +130,9 @@ author:
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-0092-898X"
+    - label: "Chess"
+      icon: "fa fa-fw fa-chess-knight"
+      url: "https://www.chess.com/member/canaytore"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
@@ -149,7 +152,7 @@ author:
 # Site Author 2 (specifically created for photography portfolio landing page)
 author2:
   name             : "Can Aytöre"
-  avatar           : "/assets/images/profile.jpg" # e.g."/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile2.jpg" # e.g."/assets/images/bio-photo.jpg"
   bio              : "Part-time Photographer 📸"
   location         : 
   email            :
