@@ -33,15 +33,17 @@ posts_nav:
         url: /blog/year/
 
 visuals_nav:
-  - title: "📈 in #TidyTuesday"
-    url: "/visualizations/#TidyTuesday"
+  - title: "📈 #TidyTuesday"
+    url: "/visualizations/#tidytuesday"
     children:
       - title: "2022"
-        url: "/visualizations/#TidyTuesday2022"
+        url: "/visualizations/#tidytuesday2022"
       - title: "2021"
-        url: "/visualizations/#TidyTuesday2021"
-  - title: "📈 in Blog Posts"
-    url: "/visualizations/#BlogPosts"
+        url: "/visualizations/#tidytuesday2021"
+  - title: "📈 #Rayshader"
+    url: "/visualizations/#rayshader"
+  - title: "📈 Blog Posts"
+    url: "/visualizations/#blogposts"
 
 photo_gallery:
   - title: All photos are taken by me <i class="far fa-copyright"></i>

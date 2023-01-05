@@ -47,10 +47,26 @@ gallery1:
   - url: /assets/visualization/us_census_CAincomepercapita.png
     image_path: /assets/visualization/us_census_CAincomepercapita.png
     title: "#tidytuesday Week5 2018 - California Income per Capita"  
+
+gallery2:
+  - url: /assets/visualization/germany_population_density_annotated.png
+    image_path: /assets/visualization/germany_population_density_annotated.png
+    title: "#rayshader - Germany Population Density Map 2022"   
+  
+  - url: /assets/visualization/turkey_population_density_annotated.png
+    image_path: /assets/visualization/turkey_population_density_annotated.png
+    title: "#rayshader - Turkey Population Density Map 2022" 
     
 ---
 
+## TidyTuesday
 A selection of data visualizations I prepared for <a href="https://github.com/rfordatascience/tidytuesday" target="_blank"><i>#TidyTuesday</i></a>. Find the whole list <a href="https://github.com/canaytore/tidytuesday" target="_blank">here</a>.
 
 {% include gallery id="gallery1" layout="third" %}
+
+
+## Rayshader
+A selection of data visualizations I prepared with <a href="https://github.com/tylermorganwall/rayshader" target="_blank"><i>Rayshader</i></a>. Find the whole list <a href="https://github.com/canaytore/rayshader-portraits" target="_blank">here</a>.
+
+{% include gallery id="gallery2" layout="second" %}
 
