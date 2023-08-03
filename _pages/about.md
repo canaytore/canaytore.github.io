@@ -191,12 +191,18 @@ Teaching
 <div class="scrollable-list">
   <h2><i class="fab fa-fw fa-linkedin"></i> LinkedIn Learning Certificates</h2>
   <ul>
+    <li><a href="https://www.linkedin.com/learning/certificates/53924bcf25e6a34e657bea3d892403b2d6d74cedae07bb3aeec40a44638096c9" target="_blank">Advanced Terraform<div>&#128197; July 25, 2023 &#9201; 2h 25m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/00e5be98bd407cec24d631482d52842bddbc27d32d3b17292fd4d354292eeab9" target="_blank">Advanced Kubernetes: Core Concepts<div>&#128197; July 17, 2023 &#9201; 3h 14m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/2c3897ba1dcf5b4dd85c7ecea9232d09b0a6d6f4673384b603c3f0b8f438f0e5" target="_blank">Advanced Snowflake: Deep Dive Cloud Data Warehousing and Analytics<div>&#128197; July 13, 2023 &#9201; 2h 9m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/81e13159176354f61a89faf33ffd64538ba6120bbe41c5b55607466a13daa72f" target="_blank">Advanced BigQuery<div>&#128197; July 11, 2023 &#9201; 2h 14m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/470fb85ce8a809a77b54fa1bd0ed1248f9c18dca29a87b05f8b31a8b20d872f5" target="_blank">Deploying and Running Apache Kafka on Kubernetes<div>&#128197; June 6, 2023 &#9201; 1h 44m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/17db6860568c634659c6016ecc319994c1c581f4b3661b4a4964164cd09d2c3b" target="_blank">Learning Terraform<div>&#128197; May 31, 2023 &#9201; 2h 2m</div></a></li>
     <li><a href="https://www.linkedin.com/learning/certificates/0ad721008cc205e3bff7979d7c15daff01e3c75f84e8c68ed004689b7f7617df" target="_blank">Learning BigQuery<div>&#128197; May 30, 2023 &#9201; 1h 58m</div></a></li>
     <li><a href="https://www.linkedin.com/learning/certificates/6f735826bc372bd88282c211291fba235f68614d2015ea6a66fb6eb02ffb0faf" target="_blank">Kubernetes: Infrastructure as Code with Pulumi<div>&#128197; May 29, 2023 &#9201; 1h 42m</div></a></li>
     <li><a href="https://www.linkedin.com/learning/certificates/00e92cdfaa6c1fa4ff175cb6246ea52b575a873ebb908cac17facb7c4cca61a3" target="_blank">Learning SnowflakeDB<div>&#128197; May 29, 2023 &#9201; 1h 41m</div></a></li>
     <li><a href="https://www.linkedin.com/learning/certificates/80dc66aba43110a41f7afc9cef364a16b3463ac07ebc823c1f5116ff7ef73e98" target="_blank">Kubernetes Essential Training: Application Development<div>&#128197; May 29, 2023 &#9201; 3h 41m</div></a></li>
     <li><a href="https://www.linkedin.com/learning/certificates/76ef7665c807a54ba281c100a21b51c72b0cec1e5d5aaefe88ec0b61ac4cbbed" target="_blank">Exam Tips: Certified Kubernetes Administrator (CKA)<div>&#128197; May 23, 2023 &#9201; 1h 37m</div></a></li>
-    <li><a href="https://www.linkedin.com/learning/certificates/23069926d58e8d66ee4bfc38dc536638e04ec743df438fd9a457429fdfdb03fb" target="_blank">Running Kubernetes on AWS (EKS)<div>&#128197; May 22, 20233 &#9201; 1h 27m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/23069926d58e8d66ee4bfc38dc536638e04ec743df438fd9a457429fdfdb03fb" target="_blank">rnetes on AWS (EKS)<div>&#128197; May 22, 20233 &#9201; 1h 27m</div></a></li>
     <li><a href="https://www.linkedin.com/learning/certificates/8f44aaf57898be08b4f591070cce38bd2ccaea7ec2d1f9f6a94c2ec7ca301eb1" target="_blank">Kubernetes: Package Management with Helm<div>&#128197; May 22, 2023 &#9201; 49m</div></a></li>
     <li><a href="https://www.linkedin.com/learning/certificates/b9ab4a87dd3ac9fadd204abc9c6ea940c90e4557f624d908ece8f7c9dc4496ce" target="_blank">Kubernetes: GitOps with ArgoCD<div>&#128197; May 22, 2023 &#9201; 1h 40m</div></a></li>
     <li><a href="https://www.linkedin.com/learning/certificates/9da4178567c2894f859582211b69e935bc9e391ace51a7c79e6065aa7f5dfbd2" target="_blank">Getting Started with Kubernetes<div>&#128197; May 19, 2023 &#9201; 9h 5m</div></a></li>
