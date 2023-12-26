@@ -4,10 +4,10 @@ main:
     url: /about/
   - title: "Publications."
     url: /publications/
-  - title: "Blog Posts."
+  - title: "Blog."
     url: /blog/categories/
-  - title: "Visualizations."
-    url: /visualizations/
+  - title: "Graphic."
+    url: /graphic/
   - title: "Photography."
     url: /photography/
   # - title: "Contact"
@@ -32,18 +32,18 @@ posts_nav:
       - title: <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Year
         url: /blog/year/
 
-visuals_nav:
+graphic_nav:
   - title: "📈 #TidyTuesday"
-    url: "/visualizations/#tidytuesday"
+    url: "/graphic/#tidytuesday"
     children:
-      - title: "2022"
-        url: "/visualizations/#tidytuesday2022"
-      - title: "2021"
-        url: "/visualizations/#tidytuesday2021"
+      - title: "2018"
+        url: "/graphic/#tidytuesday---2018"
+      - title: "Not classified"
+        url: "/graphic/#tidytuesday---not-classified"
   - title: "📈 #Rayshader"
-    url: "/visualizations/#rayshader"
+    url: "/graphic/#rayshader"
   - title: "📈 Blog Posts"
-    url: "/visualizations/#blogposts"
+    url: "/graphic/#blogposts"
 
 photo_gallery:
   - title: All photos are taken by me <i class="far fa-copyright"></i>

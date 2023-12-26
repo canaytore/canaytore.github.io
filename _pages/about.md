@@ -7,7 +7,7 @@ redirect_from:
   - /
 ---
 
-<img style="float: right; width: 39%; padding-left: 32px; padding-top: 8px; padding-bottom: 4px;" src="/assets/images/chandler.gif"> Hello dear reader, I'm _Can_ <font style="font-size:75%;">[ˈdʒanˈ]</font>, just a random data scientist candidate. I have found that creating this blog page allows me to store my work perfectly and encourages me to always be curious about new technologies and more importantly keep learning. Hopefully you would find content on this blog that interests you.
+<img style="float: right; width: 39%; padding-left: 32px; padding-top: 8px; padding-bottom: 4px;" src="/assets/images/chandler.gif"> Hello dear reader, I'm _Can_, just a random data engineer & scientist candidate. I have found that creating this blog page allows me to store my work perfectly and encourages me to always be curious about new technologies and more importantly keep learning. Hopefully you would find content on this blog that interests you.
 {: .text-justify}
 
 I was always eager to be an engineer from the very first day. When data science became a thing back then, I was that lucky to be able to combine my interests and it was pretty clear where to head.
@@ -109,8 +109,21 @@ Teaching
 🏅 Certifications
 ======
 
-<div data-iframe-width="360" data-iframe-height="320" data-share-badge-id="c03e19ec-a9bf-47c6-b891-d14f3bcaaea8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div class="scrollable-list" style="height: 360px; margin-top: -60px;">
+<div data-iframe-width="540" data-iframe-height="250" data-share-badge-id="c03e19ec-a9bf-47c6-b891-d14f3bcaaea8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<a href="https://credentials.databricks.com/df214a49-ffd4-466b-a24c-efc7430e3b43">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/84056464" alt="Can Aytöre Databricks Certified Associate Developer for Apache Spark" width="540" height="480">
+</a>
+
+<a href="https://credentials.databricks.com/7709859a-b88b-4e2f-bc01-7d80280e679a">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/84081232" alt="Can Aytöre Databricks Accredited Lakehouse Fundamentals" width="540" height="480">
+</a>
+
+<a href="https://credentials.databricks.com/a7b92007-d2f5-4347-a9b9-ecfc7962de6a">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/84097976" alt="Can Aytöre Databricks Accredited Generative AI Fundamentals" width="540" height="480">
+</a>
+
+<div class="scrollable-list" style="height: 360px; margin-top: 0px;">
   <h2 style="background-color: #2EC866;"><i class="fab fa-fw fa-hackerrank"></i> HackerRank Certificates</h2>
   <ul>
     <li><a href="https://www.hackerrank.com/certificates/72d16de1f422" target="_blank">JavaScript (Basic) Certificate<div>&#128197; December 28, 2022</div></a></li>
@@ -126,7 +139,7 @@ Teaching
 -->
 <hr style="height:1px; visibility:hidden;" />
 
-🏆 Course Certifications <font style="font-size:65%;">(over 400 hrs+ of training time)</font>
+🏆 Course Certifications <font style="font-size:65%;">(over 500 hrs+ of training time)</font>
 ======
 
 <style>
@@ -191,6 +204,15 @@ Teaching
 <div class="scrollable-list">
   <h2><i class="fab fa-fw fa-linkedin"></i> LinkedIn Learning Certificates</h2>
   <ul>
+    <li><a href="https://www.linkedin.com/learning/certificates/86efafbaca31631cc2a7adc9823622213d49ea62454249a2bb6353fd7ea1d0a8" target="_blank">Data Management with Apache NiFi<div>&#128197; November 16, 2023 &#9201; 2h 36m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/2ae46e5f65993d02590a90abcd34f120737bd7dd14c2451a5055edc81bfa3af1" target="_blank">Learning OpenShift<div>&#128197; November 8, 2023 &#9201; 1h 8m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/95b4c58a72ad2d7aa3f5d87608391462a1eaaeaeb78f52feaa65d93f94147fea" target="_blank">Learning Apache Airflow<div>&#128197; November 1, 2023 &#9201; 2h 10m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/1fdceff7a1be740636176cedab291309cf02f1d5a62eacab5a9644ec89fb45b0" target="_blank">Using Apache Spark with .NET<div>&#128197; September 29, 2023 &#9201; 1h 20m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/58db92c8c8663a1312574048a92d4a44b1a14a7421ddeaec7be0ebf9d22cb257" target="_blank">Advanced SQL for Application Development<div>&#128197; August 20, 2023 &#9201; 2h 7m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/a35c07ccd7ba52a550e7d826169891ae857c192fdf5f40078a5f58ac86c33268" target="_blank">Advanced SQL for Data Science: Time Series<div>&#128197; August 9, 2023 &#9201; 1h 18m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/811b6da78976114e3f69e7ac7594309a49f9f59e4068cceffb9b9264d497400d" target="_blank">Advanced SQL for Query Tuning and Performance Optimization<div>&#128197; August 9, 2023 &#9201; 1h 44m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/0542e4f90128c707a9ad3bee8662d4476a077d8f4938ad865c15e156a55754ef" target="_blank">Advanced SQL - Window Functions<div>&#128197; August 7, 2023 &#9201; 1h 56m</div></a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/b34a932aa891e080e1377ef6ecb6582e64df228eab7e7044124aeaec8d5c4460" target="_blank">Advanced SQL for Data Scientists<div>&#128197; August 3, 2023 &#9201; 2h 30m</div></a></li>
     <li><a href="https://www.linkedin.com/learning/certificates/53924bcf25e6a34e657bea3d892403b2d6d74cedae07bb3aeec40a44638096c9" target="_blank">Advanced Terraform<div>&#128197; July 25, 2023 &#9201; 2h 25m</div></a></li>
     <li><a href="https://www.linkedin.com/learning/certificates/00e5be98bd407cec24d631482d52842bddbc27d32d3b17292fd4d354292eeab9" target="_blank">Advanced Kubernetes: Core Concepts<div>&#128197; July 17, 2023 &#9201; 3h 14m</div></a></li>
     <li><a href="https://www.linkedin.com/learning/certificates/2c3897ba1dcf5b4dd85c7ecea9232d09b0a6d6f4673384b603c3f0b8f438f0e5" target="_blank">Advanced Snowflake: Deep Dive Cloud Data Warehousing and Analytics<div>&#128197; July 13, 2023 &#9201; 2h 9m</div></a></li>
