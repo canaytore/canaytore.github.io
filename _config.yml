@@ -108,7 +108,7 @@ author:
   name             : "Can Aytöre"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Industrial Engineer, M.Sc.<br/>R & Python-ist 🐍"
-  location         : "Hanover, Germany"
+  location         : "Munich, Germany"
   employer         :
   email            :
   links:
@@ -156,19 +156,16 @@ author:
 author2:
   name             : "Can Aytöre"
   avatar           : "/assets/images/profile2.jpg" # e.g."/assets/images/bio-photo.jpg"
-  bio              : "Part-time Photographer 📸"
+  bio              : "part-time photographer 📸"
   location         : 
   email            :
   links:
-    - label: "<i>instagram/dailyhovering</i>"
+    - label: "<i>ig/dailyhovering</i>"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/dailyhovering/?hl=en"
-    - label: "<i>youtube/dailyhovering</i>"
+    - label: "<i>yt/dailyhovering</i>"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UC2kOUxfJY_qJbh-eWzWvjTQ"      
-    - label: "<i>flickr/canaytore</i>"
-      icon: "fab fa-fw fa-flickr"
-      url: "https://flic.kr/ps/3YCQXY"
+      url: "https://www.youtube.com/channel/UC2kOUxfJY_qJbh-eWzWvjTQ"
 
 # Site Footer
 footer:

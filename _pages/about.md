@@ -19,7 +19,7 @@ I've been inevitably finding myself coding in major programming languages such a
 When I'm not coding, you may find me reading, exploring, traveling, swimming, or sailing. Therewithal I recently started playing <a href="https://www.chess.com/member/canaytore" target="_blank">Chess</a> and picked up aerial photography again - my portfolio is at <a href="https://canaytore.github.io/photography/" target="_blank">ca.photography</a>.
 {: .text-justify}
 
-You can find further information about me <u>below</u> or on my <a href="https://scholar.google.com/citations?user=mbMndyUAAAAJ=en" target="_blank">Google Scholar</a>, <a href="https://github.com/canaytore/" target="_blank">Github</a>, and <a href="https://canaytore.github.io/blog/categories/" target="_blank">blog-posts</a>. Also of course you are very welcome to connect with me via <a href="https://linkedin.com/in/canaytore/" target="_blank">LinkedIn</a>.
+You can find further information about me <u>below</u> or on my <a href="https://scholar.google.com/citations?user=mbMndyUAAAAJ=en" target="_blank">Google Scholar</a>, and <a href="https://github.com/canaytore/" target="_blank">Github</a>. Also of course you are very welcome to connect with me via <a href="https://linkedin.com/in/canaytore/" target="_blank">LinkedIn</a>.
 {: .text-justify}
 
 <hr style="height:1px; visibility:hidden;" />
@@ -28,8 +28,8 @@ You can find further information about me <u>below</u> or on my <a href="https:/
 ======
 
 - M.Sc. in Operations Research, <a href="https://www.boun.edu.tr/" target="_blank">Bogazici University</a>, *2021* <font style="font-size:75%;">CGPA: 3.81/4.0</font>
-- B.Sc. in Industrial Engineering and Economics, <a href="https://www.itu.edu.tr/" target="_blank">Istanbul Technical University</a>, *2019* <font style="font-size:75%;">CGPA: 3.53/4.0</font>
-- B.Sc. in Wirtschaftsingenieurwesen, <a href="https://www.hm.edu/en/" target="_blank">Munich University of Applied Sciences</a>, *2018*
+- B.Sc. in Industrial Engineering (Operations Research), <a href="https://www.itu.edu.tr/" target="_blank">Istanbul Technical University</a>, *2019* <font style="font-size:75%;">CGPA: 3.53/4.0</font>
+- B.Sc. in Wirtschaftsingenieurwesen, <a href="https://www.hm.edu/en/" target="_blank">Munich University of Applied Sciences</a>, *2018* <font style="font-size:75%;">Erasmus+ Exchange Program</font>
 
 **Research Interests🔎:** <font style="font-size:90%; text-align: justify;">Stochastic Processes, Simulation, Applied Statistics, Bayesian Network, ML Algorithms, Artificial Intelligence, Deep Learning, Computer Vision, Natural Language Processing</font>
 
@@ -39,7 +39,8 @@ You can find further information about me <u>below</u> or on my <a href="https:/
 ======
 
 - <a href="https://de.adastragrp.com/en/" target="_blank">Adastra GmbH</a>
-  - Data Engineer, <font style="font-size:85%; font-style: italic;">09/2022 - Present</font>
+  - Lead Data Engineer, <font style="font-size:85%; font-style: italic;">09/2024 - Present</font>
+  - Data Engineer, <font style="font-size:85%; font-style: italic;">09/2022 - 08/2024</font>
   
 - <a href="https://www.bsh-group.com/" target="_blank">BSH Home Appliances Group</a>
   - <a href="https://www.bsh-group.com/career/global-graduate-accelerator" target="_blank">Global Graduate</a> in IT, Digital & Strategy, <font style="font-size:85%; font-style: italic;">08/2021 - 08/2022</font>
@@ -51,7 +52,7 @@ You can find further information about me <u>below</u> or on my <a href="https:/
 - <a href="https://www.vitraglobal.com/" target="_blank">Eczacıbaşı Building Products (VitrA Bath)</a>
   - Market Development Working Student, <font style="font-size:85%; font-style: italic;">08/2018 - 08/2019</font>
 
-- <a href="https://www.fordotosan.com.tr/en" target="_blank">Ford Motor Company</a>
+- <a href="https://www.fordotosan.com.tr/en" target="_blank">Ford Otosan Motor Company</a>
   - Manufacturing Intern, <font style="font-size:85%; font-style: italic;">06/2017 - 08/2017</font>
 
 <hr style="height:1px; visibility:hidden;" />
@@ -66,19 +67,6 @@ You can find further information about me <u>below</u> or on my <a href="https:/
 | **Infrastructure and DevOps**         | ArgoCD, Bamboo CI/CD, Bitbucket, Docker, Git, JFrog Artifactory, Jira, Okteto | GitHub Actions, Kubernetes, RedHat Openshift | GitLab CI/CD, SonarQube, Terraform |
 | **Cloud and Databases**               | AWS EC2, AWS S3 | AWS DynamoDB, AWS ECS, AWS EKS, AWS Fargate, AWS Lambda, Azure Databricks, MySQL | AWS RDS, Elasticsearch, MS Access, MongoDB, OracleDB, PostgreSQL, Redis, VMware |
 | **Software, Tools and favorable IDEs**| Automation Anywhere, GAMS, Jupyter Notebook, MS Office, Netlogo, RStudio, Spyder IDE, vscode | Anaconda, Arena Simulation, AutoCAD, Google Colab, PowerBI, PyCharm, SPSS Statistics, UiPath | IntelliJ IDEA, Postman, SAP BW, Simulink |
-
-<hr style="height:1px; visibility:hidden;" />
-
-🧠 Projects
-======
-
-- Volkswagen SQA (Smart Quality Analytics) <font style="font-size:75%;">Associated with Adastra GmbH</font>
-
-- Low Cost Computer Vision AI on Production Line <font style="font-size:75%;">Associated with BSH Home Appliances Group</font>
-
-- RPA/AI on Quality Control Checks in Corporate Audit <font style="font-size:75%;">Associated with BSH Home Appliances Group</font>
-
-- Price-Volume-Mix Analysis Self-Service Dashboard Creation <font style="font-size:75%;">Associated with Eczacıbaşı Building Products (VitrA Bath)</font>
 
 <hr style="height:1px; visibility:hidden;" />
 
@@ -111,8 +99,16 @@ Teaching
 
 <div data-iframe-width="540" data-iframe-height="250" data-share-badge-id="c03e19ec-a9bf-47c6-b891-d14f3bcaaea8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+<a href="https://credentials.databricks.com/77219211-bb65-4b40-96e6-6bc2cdb3e386">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/134555518" alt="Can Aytöre Databricks Certified Data Engineer Professional" width="540" height="480">
+</a>
+
+<a href="https://credentials.databricks.com/ce84d9ec-7371-4f84-9b1b-cdeb26350f97">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/94776493" alt="Can Aytöre Databricks Certified Data Engineer Associate" width="540" height="480">
+</a>
+
 <a href="https://credentials.databricks.com/df214a49-ffd4-466b-a24c-efc7430e3b43">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/84056464" alt="Can Aytöre Databricks Certified Associate Developer for Apache Spark" width="540" height="480">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84056464" alt="Can Aytöre Databricks Certified Associate Developer for Apache Spark" width="540" height="480">
 </a>
 
 <a href="https://credentials.databricks.com/7709859a-b88b-4e2f-bc01-7d80280e679a">
@@ -391,10 +387,7 @@ obsolete approach
 🌐 About _`canaytore.github.io`_
 ======
 
-This site is hosted on <a href="https://pages.github.com/" target="_blank">Github Pages</a> (for free!) and powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> (which is run on <a href="https://www.ruby-lang.org/en/" target="_blank">_Ruby_</a>) using the <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" target="_blank">Minimal Mistakes</a> theme (which I tweaked a bit). Comments are hosted on <a href="https://disqus.com/" target="_blank">Disqus</a>, and automated e-mails for Newsletter are handled by <a href="https://blogtrottr.com/" target="_blank">Blogtrottr</a>. Thanks to all this, I was able to host this small chunk of my brain on the Internet.
-{: .text-justify}
-
-All blog posts are released under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+This site is hosted on <a href="https://pages.github.com/" target="_blank">Github Pages</a> (for free!) and powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> (which is run on <a href="https://www.ruby-lang.org/en/" target="_blank">_Ruby_</a>) using the <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" target="_blank">Minimal Mistakes</a> theme (which I tweaked a bit). Thanks to all these, I was able to host this small chunk of my brain on the Internet.
 {: .text-justify}
 
 All opinions and views are my own and do __not__ represent my employer.
